@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/CasesAcrossIndia"
+        android:title="CASES ACROSS INDIA"/>
+    <item android:id="@+id/StatewiseStatus"
+        android:title="COVID-19 STATEWISE/UT STATUS"/>
+    <item android:id="@+id/VaccineCertificate"
+        android:title="DOWNLOAD VACCINE CERTIFICATE"/>
+
+
+</menu>
